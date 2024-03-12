@@ -1,0 +1,46 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    // BUILDMODE: 내부 배포 형태에 따라 사용한 값을 구분하기 위한 값
+    // 0: dev 1: staging 2: release
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "toonflix(dev)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "debug",
+            "args": [
+                "--dart-define=BUILDMODE=dev"
+            ],
+        },
+        {
+            "name": "toonflix(staging)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "debug",
+            "args": [
+                "--dart-define=BUILDMODE=staging"
+            ],
+        },
+        {
+            "name": "toonflix (profile mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile",
+            "args": [
+                "--dart-define=BUILDMODE=dev"
+              ],
+        },
+        {
+            "name": "toonflix (release mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release",
+            "args": [
+                "--dart-define=BUILDMODE=release"
+              ],
+        },
+    ]
+}

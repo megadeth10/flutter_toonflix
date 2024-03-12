@@ -1,0 +1,99 @@
+{
+    "@@locale": "en",
+    "helloWorld": "Hello World!",
+    "@helloWorld": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "termission_test_title": "Permission Test",
+    "@termission_test_title": {
+      "description": "test title"
+    },
+    "application_setting": "Application Setting",
+    "@application_setting": {
+      "description": "Application Setting"
+    },
+    "notification": "Notification Setting",
+    "@notification": {
+      "description": "Notification Setting"
+    },
+    "application_lifecycle": "Application Lifecycle",
+    "@application_lifecycle": {
+      "description": "Application Lifecycle"
+    },
+    "configuration_information": "Configuration Information",
+    "@configuration_information": {
+      "description": "Configuration Information"
+    },
+    "animation_test": "Animation Test",
+    "@animation_test": {
+      "description": "Animation Test"
+    },
+    "application_copyright": "Copyright © /// Shipbaesong All Rights Reserved.",
+    "@application_copyright": {
+      "description": "application copyright"
+    },
+    "text_field": "Text Field Test",
+    "@text_field": {
+      "description": "Text Field Test"
+    },
+    "app_state": "App State Test",
+    "@app_state": {
+      "description": "App State Test"
+    },
+    "app_state_sub": "App State Sub",
+    "@app_state_sub": {
+      "description": "App State Sub"
+    },
+    "rxdart_text": "RxDart Test",
+    "@rxdart_text": {
+      "description": "RxDart Test"
+    },
+    "mvvmtest": "MVVM Test",
+    "@mvvmtest": {
+      "description": "MVVM Test"
+    },
+    "network_test": "Network Test",
+    "@network_test": {
+      "description": "Network Test"
+    },
+    "shipbaesong": "shipbaesong",
+    "@shipbaesong": {
+      "description": "shipbaesong"
+    },
+    "skip": "건너뛰기",
+    "@skip": {
+      "description": "skip"
+    },
+    "onboarding_title1": "올인원 서비스",
+    "@onboarding_title1": {
+      "description": "올인원 서비스"
+    },
+    "onboarding_description1": "배송신청, 배송현황 등을 한곳에서 해결",
+    "@onboarding_description1": {
+      "description": "배송신청, 배송현황 등을 한곳에서 해결"
+    },
+    "onboarding_title2": "든든한 보험 서비스",
+    "@onboarding_title2": {
+      "description": "든든한 보험 서비스"
+    },
+    "onboarding_description2": "만일의 경우를 위한 파손 • 분실 보상 가능",
+    "@onboarding_description2": {
+      "description": "만일의 경우를 위한 파손 • 분실 보상 가능"
+    },
+    "onboarding_title3": "튼튼포장 서비스",
+    "@onboarding_title3": {
+      "description": "튼튼포장 서비스"
+    },
+    "onboarding_description3": "튼튼하게 재포장 및 포장영상 제공",
+    "@onboarding_description3": {
+      "description": "튼튼하게 재포장 및 포장영상 제공"
+    },
+    "login": "로그인",
+    "@login": {
+      "description": "로그인"
+    },
+    "sign_up": "회원가입",
+    "@sign_up": {
+      "description": "회원가입"
+    }
+}
