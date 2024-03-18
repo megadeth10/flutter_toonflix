@@ -89,6 +89,7 @@ class NetworkViewModel extends BaseViewModel {
   @override
   void onDispose() {
     // TODO: implement onDispose
+    versionControl.close();
   }
 
   @override
